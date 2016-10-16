@@ -10,3 +10,9 @@ Ako me tražite da vam pošaljem aplikaciju, poslao bih vam dvije datoteke: Konz
 
 # Pitanje 2:
 Koristila se stara verzija teksta, zato što konzolna aplikacija prihvaća podatke iz biblioteka koje su već prevedene.
+
+# Pitanje 3:
+Pero: Hello World
+
+# Pitanje 4:
+PeroClassLibrary.dll se kopirao u Bin/Debug repozitorij.
