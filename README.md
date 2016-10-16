@@ -16,3 +16,6 @@ Pero: Hello World
 
 # Pitanje 4:
 PeroClassLibrary.dll se kopirao u Bin/Debug repozitorij.
+
+# Pitanje 5:
+Aplikacija i build i dalje rade zato jer se sad referencira kopija .dll-a koja se nalazi u Bin/Debug repozitoriju. PeroClassLibrary se sada traži u projektu KonzolnaAplikacija.
